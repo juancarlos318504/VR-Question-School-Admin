@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "836cb9a444e29475fb057fa746a99356",
+    "revision": "26e76b5140ea0957fbd7faf46c288adc",
     "url": "/VR-Question-School-Admin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VR-Question-School-Admin/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "c5169a06a16d5f1d1bba",
+    "revision": "539fa2bfd82586659f6a",
     "url": "/VR-Question-School-Admin/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VR-Question-School-Admin/static/js/2.862e4e16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5169a06a16d5f1d1bba",
-    "url": "/VR-Question-School-Admin/static/js/main.1f73daca.chunk.js"
+    "revision": "539fa2bfd82586659f6a",
+    "url": "/VR-Question-School-Admin/static/js/main.dcc48f7b.chunk.js"
   },
   {
     "revision": "61d04293d3cb298f8557",
