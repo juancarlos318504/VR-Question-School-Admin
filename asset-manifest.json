@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VR-Question-School-Admin/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/VR-Question-School-Admin/static/js/main.dcc48f7b.chunk.js",
-    "main.js.map": "/VR-Question-School-Admin/static/js/main.dcc48f7b.chunk.js.map",
+    "main.js": "/VR-Question-School-Admin/static/js/main.1f73daca.chunk.js",
+    "main.js.map": "/VR-Question-School-Admin/static/js/main.1f73daca.chunk.js.map",
     "runtime-main.js": "/VR-Question-School-Admin/static/js/runtime-main.096e82ec.js",
     "runtime-main.js.map": "/VR-Question-School-Admin/static/js/runtime-main.096e82ec.js.map",
     "static/css/2.af3c1da9.chunk.css": "/VR-Question-School-Admin/static/css/2.af3c1da9.chunk.css",
     "static/js/2.862e4e16.chunk.js": "/VR-Question-School-Admin/static/js/2.862e4e16.chunk.js",
     "static/js/2.862e4e16.chunk.js.map": "/VR-Question-School-Admin/static/js/2.862e4e16.chunk.js.map",
     "index.html": "/VR-Question-School-Admin/index.html",
-    "precache-manifest.6f719884e11c5fe3b1708a4aa8f74001.js": "/VR-Question-School-Admin/precache-manifest.6f719884e11c5fe3b1708a4aa8f74001.js",
+    "precache-manifest.ac20d2c184a55de9ccaad09cf781e9de.js": "/VR-Question-School-Admin/precache-manifest.ac20d2c184a55de9ccaad09cf781e9de.js",
     "service-worker.js": "/VR-Question-School-Admin/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/VR-Question-School-Admin/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/VR-Question-School-Admin/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.862e4e16.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.dcc48f7b.chunk.js"
+    "static/js/main.1f73daca.chunk.js"
   ]
 }
