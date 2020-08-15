@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VR-Question-School-Admin/precache-manifest.ac20d2c184a55de9ccaad09cf781e9de.js"
+  "/VR-Question-School-Admin/precache-manifest.6f719884e11c5fe3b1708a4aa8f74001.js"
 );
 
 self.addEventListener('message', (event) => {
